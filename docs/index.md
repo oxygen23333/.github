@@ -25,7 +25,7 @@ title: 主页
 - 撰写论文请参考[论文写作技巧](./paper_tips.md)
 
 
-## 2. 开发配置 <span id='dev'></span>
+## 2. 开发配置 <span id="dev"></span>
 
 - [搭建自定义开发环境](env_conf.md)
 
