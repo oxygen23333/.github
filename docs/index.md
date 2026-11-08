@@ -75,7 +75,7 @@ OpenHUTB 的其他非主要平台包括 :
 | [微信公众号](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI2ODk5MzE5Ng==) | 微信 | [知乎](https://www.zhihu.com/people/OpenHUTB)  | [B 站](https://space.bilibili.com/479231494) |
 | ![](./img/social/xiaohongshu.jpg) | ![](./img/social/Twitter.png) | ![](./img/social/Youtube.png) | ![](./img/social/sponsor.png) |
 | [小红书](https://www.xiaohongshu.com/user/profile/62977010000000002102bc47) | [Twitter(X)](https://x.com/OpenHUTB) | [Youtube](https://www.youtube.com/@OpenHUTB)  | [赞助](https://ko-fi.com/openhutb) 
-**备注：**
+**备注:**
 本社区不搭建自己的独立平台，主要有以下几个原因：
 -**避免信息孤岛**：防止独立平台生成“信息孤岛”而造成社区分裂。
 -**降低维护成本**：独立平台的维护成本较高。
