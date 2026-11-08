@@ -81,7 +81,7 @@ OpenHUTB 的其他非主要平台包括 :
 -**降低维护成本**：独立平台的维护成本较高。
 -**践行去中心化理念**：降低用户参与门槛。
 -**规避风险与保障可持续性**：避免因依附平台的限制而影响社区发展。
-通过以上方式，使社区能够更加专注于核心使命。
+通过以上方式，使得社区能够更专注于核心使命。
 ___
 
 如果对文档中的任何问题可以在 [本文档的源码仓库](https://github.com/OpenHUTB/templte) 中的 [问题](https://github.com/OpenHUTB/templte/issues) 页面讨论或者提交 [拉取请求](https://github.com/OpenHUTB/.github/blob/master/CONTRIBUTING.md) 直接修改文档。                   
